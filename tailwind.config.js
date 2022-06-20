@@ -8,14 +8,15 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: '#047857',
-        sekunder: '#a7f3d0',
-        hprimary: '#065f46',
-        hsekunder: '#6ee7b7',
+        primary: '#193948',
+        sekunder: '#4265d6',
+        hprimary: '#293855',
+        hsekunder: '#77acb7',
         teks: '#0f172a',
-        hteks: '#cbd5e1',
+        hteks: '#CBD5E1',
       },
     },
   },
   plugins: [],
 }
+
