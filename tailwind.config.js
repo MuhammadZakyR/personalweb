@@ -13,10 +13,13 @@ module.exports = {
         hprimary: '#293855',
         hsekunder: '#77acb7',
         teks: '#0f172a',
+        teksh: '#64748B',
         hteks: '#CBD5E1',
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/line-clamp'),
+  ],
 }
 
